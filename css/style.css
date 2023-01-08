@@ -91,7 +91,10 @@ h6 {
   width: 100%;
   text-align: center;
 }
-
+.card {
+  background: #fff;
+  padding: 1rem;
+}
 /* navigation */
 #main-nav {
   background: #fff;
